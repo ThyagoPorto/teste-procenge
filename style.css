@@ -1,0 +1,59 @@
+.post-title {
+    background-color: #083dec
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.course {
+    color: #083dec;
+    margin-left: 15px;
+
+}
+
+.course-name {
+    background-color: rgba(62, 163, 240, 0.4);
+    color: black;
+    width: 600px;
+    height: 300px;
+    margin: 50px auto;
+    padding: 30px 50px;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+input {
+    width: 500px
+}
+
+button {
+    border: 0;
+    background: #083dec;
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 8px 8px;
+    border-radius: 4px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+th {
+    letter-spacing: 1px;
+}
+
+td {
+    text-align: center;
+}
+
+div,
+radio,
+label {
+    margin-right: -50px
+}
